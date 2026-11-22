@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "LEANDRO_CI_CD",
-    "slug": "LEANDRO_CI_CD",
+    "slug": "leandrocicd",
     "owner": "lemandus-team",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -30,7 +30,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9086f3dc-3553-48fa-9c9d-6d235f77c602"
+        "projectId": "9c0aecd1-96c7-4b67-b72b-4c7e3304cdfd"
       }
     }
   }
